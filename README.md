@@ -1,6 +1,19 @@
 # ParkEase AI
 Smart Parking Management System built using PHP, MySQL, and WordPress.
 
+## Screenshots
+### Home Page
+![Home](screenshots/home.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### AI Assistant
+![AI](screenshots/ai-assistant.png)
+
 ## About the Project
 ParkEase AI helps users find and book parking slots easily. It includes a simple admin panel to manage parking stations and bookings.
 The system also includes a basic AI feature that suggests parking based on availability.
