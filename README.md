@@ -34,6 +34,9 @@ The system also includes a basic AI feature that suggests parking based on avail
 - CSS
 - Bootstrap
 - JavaScript
+- 
+## System Flow
+User → Login → Search Parking → Book Slot → Admin Manages Data → AI Suggests Parking
 
 ## How it Works
 1. User logs in or registers
